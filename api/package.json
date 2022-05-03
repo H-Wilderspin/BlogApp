@@ -1,0 +1,55 @@
+{
+  "homepage": "https://github.com/H-Wilderspin/GardenAppAPI.git",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "bcrypt": "^5.0.1",
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "git": "^0.1.5",
+    "mongoose": "^6.3.1",
+    "multer": "^1.4.4",
+    "netlify": "^11.0.1",
+    "nodemon": "^2.0.15",
+    "path": "^0.12.7"
+  },
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "C:/Users/hazel/.git/"
+  },
+  "keywords": [
+    "garden",
+    "gardening",
+    "Alison",
+    "Wilderspin",
+    "maintenance",
+    "clearing",
+    "planting",
+    "sprucing",
+    "mowing",
+    "lawn",
+    "care",
+    "grass",
+    "weeding",
+    "carterton",
+    "brize",
+    "witney",
+    "plants",
+    "hedge",
+    "trim",
+    "feed",
+    "weed",
+    "tidy"
+  ],
+  "author": "H Wilderspin",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
